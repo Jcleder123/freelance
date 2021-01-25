@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Simple Designs</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+    font-size: 18px;
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body {
+    margin-left: 500px;
+    margin-right: 500px;
+    float: none;
+    height: 500px;
+    width: 1000px;
+}
+</style>
+</head>
+
+<body bgcolor="#AF99BC">
+<div class="footer" id="wrapper">
+	
+	<h1> Simple Designs </h1>
+
+<div id="nav">
+	
+	<ul class="navmenu">
+		<li><a href="#">Home</a></li>
+		<li><a href="#">About our Company</a></li>
+		<li><a href="#">Our Services</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+	
+	
+	
+	</div>
+<div class="body">
+	<h1> About Our Company</h1>
+</div>
+<div class="footer">Content for  class "footer" Goes Here</div>
+	
+	
+	</div> 
+	
+</body>
+</html>
