@@ -1,43 +1,63 @@
 <!doctype html>
 <html>
 <head>
+	
 <meta charset="utf-8">
+	
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Simple Designs</title>
+	
+	<title>Simple Designs</title>
+	
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
 	
-</head>
+<link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	
+	
 
-<body>
-<div id="wrapper">
+	body,td,th {
+	
+    font-size: 24px;
+}
+
+	</style>
+
+	</head>
+
+
+	<body bgcolor="#D7B5B6">
+
+		
+		<div id="wrapper">
 	
 	<div id="banner">
 		<h1> Simple Designs </h1>
-	</div>
+	<h1>&nbsp;</h1>
+  </div>
 
 
 <div id="nav">
 	
 	<ul class="navmenu">
-		<li><a href="#">Home</a></li>
-		<li><a href="#">About our Company</a></li>
-		<li><a href="#">Our Services</a></li>
-		<li><a href="#">Contact</a></li>
+		<li><a href="../index.html">Home</a></li>
+		<li><a href="../about.html">About our Company</a></li>
+		<li><a href="../services.html">Our Services</a></li>
+		<li><a href="../contact.html">Contact</a></li>
 	</ul>
 	
 </div><!--nav end-->
 <div id="main">
 	<!-- TemplateBeginEditable name="content" -->
-	<h1> About Our Company</h1>
-	<p>Content for  id "main" Goes Here</p>
+	<h1> Home Page</h1>
+	<p>Do you want a simple website? You can find easy and affordable websites made just for you.</p>
 	
 	<!-- TemplateEndEditable -->
 </div> <!--main end-->
+			
 <div id="footer">Content for  id "footer" Goes Here
-	</div>
+  </div>
 
 
 	
