@@ -1,29 +1,38 @@
 @charset "utf-8";
 /* CSS Document for freelance website*/
 
+
+
+body {
+    font-size: 18px;
+    color: #000000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #AF99BC;
+}
+
+
 #wrapper {
     width: 1000px;
     background: white;
-    align-content: center;
-    align-items: flex-start;
-    height: 600px;
-    float: center;
-    margin: 200px;
+    margin: auto;
 	
 }
-body {
-	
-}
+
 h1 {
 }
+#banner {
+    height: 100px;
+}
+
+
 #nav {
     background-color: #EDD4D5;
     margin: auto;
     border: thin groove #AC7778;
-    width: 1000px;
     height: 100px;
 }
 
+footer {background-color: #5D4868}
 /*CSS Menu Styles */
 
 .navmenu{
@@ -153,4 +162,11 @@ h1 {
     height: 50px;
     width: 1000px;
     margin: auto;
+}
+#main {
+    background-color: #FCFCFC;
+    text-align: justify;
+}
+#footer {
+    height: 200px;
 }
