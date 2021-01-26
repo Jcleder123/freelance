@@ -6,7 +6,7 @@
 	
 <!-- TemplateBeginEditable name="doctitle" -->
 	
-	<title>Simple Designs</title>
+<title>Simple Designs</title>
 	
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
@@ -22,7 +22,10 @@
     font-size: 24px;
 }
 
-	</style>
+	h1 {
+    font-size: large;
+}
+</style>
 
 	</head>
 
